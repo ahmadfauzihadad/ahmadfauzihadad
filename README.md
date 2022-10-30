@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently working at [PetroChina Jabung Ltd.](http://www.petrochina.co.id/SitePages/Home.aspx)
 - 🌱 I’m currently learning Python and R
-- 👯 I’m looking to collaborate on Data Analysis and Machine Learning Applications for Reservoir and Production Management/Optimization 
+- 👯 I'm looking to collaborate on Data Analysis and Machine Learning Applications for Reservoir and Production Optimization 
 - 🤔 I’m looking for suggest for Data Science & Machine Learning
 - 💬 Ask me about anything
 - 📫 How to reach me: afhadad.ai@gmail.com
